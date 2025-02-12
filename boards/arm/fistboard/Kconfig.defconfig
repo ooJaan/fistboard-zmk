@@ -25,8 +25,5 @@ config ZMK_USB
 	default y
 	
 
-config PINMUX
-	default y
-
 
 endif # BOARD_FISTBOARD
