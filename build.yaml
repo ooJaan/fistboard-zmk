@@ -19,7 +19,9 @@
 #
 ---
 include:
-  - board: corneish_zen_v2_left
-  - board: corneish_zen_v2_right
+  - board: fistboard
+    shield: fistboard_left
+  - board: fistboard
+    shield: fistboard_right
   - board: nice_nano_v2
     shield: settings_reset
